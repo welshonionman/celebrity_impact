@@ -15,7 +15,7 @@ Wikipediaの情報を取得できるAPI（MediaWiki api）を使用して、[各
 
 # どんな感じになったの
 
-作った地図は[ここでグリグリ動かせます。](https://nbviewer.org/github/welshonionman/celebrity_battle/blob/master/celebrity_battle.ipynb)
+作った地図は[ここでグリグリ動かせます。](https://nbviewer.org/github/welshonionman/celebrity_battle/blob/master/celebrity_impact.ipynb)
 
 # やってみてどうよ
 - 本当はコロプレス図でもっといい感じにしたかったけど、全国の市町村のポリゴンデータを読み込ませようとするとサイズがでかすぎてフリーズするので断念
